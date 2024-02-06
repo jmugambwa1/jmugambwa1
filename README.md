@@ -34,7 +34,7 @@ Here are a few notable projects I've worked on:
 
 ## Contact Me
 
-Feel free to reach out to me via email at khezajoel@gmail or connect with me on LinkedIn (https://www.linkedin.com/in/jmugambwa1).
+Feel free to reach out to me via email at (khezajoel@gmail.com)  or connect with me on LinkedIn (https://www.linkedin.com/in/jmugambwa1).
 
 Let's collaborate and innovate together!
 

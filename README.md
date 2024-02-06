@@ -29,7 +29,7 @@ Here are a few notable projects I've worked on:
 ## Education
 
 - **Bachelor of Science in Computer Science**
-  - Ventspils University Of Applied Sciences , Year of Graduation (2026)
+  - Ventspils University Of Applied Sciences 
 
 
 ## Contact Me

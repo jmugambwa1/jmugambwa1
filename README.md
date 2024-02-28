@@ -1,12 +1,9 @@
 # Joel Mugambwa
-
-## Computer Science Student | Passionate Developer | Tech Enthusiast
-
-Welcome to my profile! I'm Joel Mugambwa, a dedicated Computer Science student with a passion for coding and technology. With a keen interest in solving problems through innovative solutions, I constantly strive to learn and grow in the ever-evolving field of computer science.
+Computer Science Student | Developer & Cybersecurity Enthusiast | Tech Innovator
+Welcome to my profile! I'm Joel Mugambwa, a dedicated Computer Science student with a dual focus on software development and cybersecurity. I'm passionate about leveraging technology to solve problems and contribute to the ever-evolving digital landscape.
 
 ## About Me
-
-I am currently pursuing my degree in Computer Science, where I delve into various aspects of software development, algorithms, data structures, and computer systems. My academic journey has equipped me with a strong foundation in programming languages such as Python, Java, and C++, along with practical skills in web development, mobile app development, and software engineering.
+I am currently pursuing my degree in Computer Science, where I immerse myself in both software development and cybersecurity. My academic journey has equipped me with a strong foundation in programming languages such as Python, Java, and C++, along with practical skills in web development, mobile app development, and software engineering. I am deeply fascinated by cybersecurity and constantly seek to enhance my knowledge in this field while honing my skills as a developer.
 
 ## Skills
 
@@ -14,6 +11,7 @@ I am currently pursuing my degree in Computer Science, where I delve into variou
 - **Web Development:** HTML, CSS, JavaScript, Django
 - **Mobile App Development:** Flutter
 - **Database Management:** SQL, SQLite
+- **Cybersecurity:** Ethical Hacking, Cryptography, Network Security
 - **Version Control:** Git, GitHub
 - **Tools & Technologies:** Tkinter, Kivy, PyTorch, TensorFlow
 
@@ -21,10 +19,12 @@ I am currently pursuing my degree in Computer Science, where I delve into variou
 
 Here are a few notable projects I've worked on:
 
-- **Calculator App:** Built a simple calculator application using Python and Kivy framework.
-- **Translator App:** Developed a text translator application using Python, Tkinter, and various language processing libraries.
-- **Image to PDF Converter:** Created a tool to convert images to PDF files using Python, Tkinter, Pillow, and ReportLab.
-- **Text-to-Speech App:** Designed an application to convert text to speech using Python, Tkinter, and pyttsx3 library.
+- **Secure Messaging Application:** Developed a messaging app with end-to-end encryption using cryptographic algorithms to ensure user privacy and security.
+- **Vulnerability Scanner:** Built a tool to scan web applications for security vulnerabilities, helping developers identify and patch potential threats.
+- **Weather App:** Created a mobile application that provides real-time weather updates based on the user's location, enhancing user experience with intuitive design and accurate data.
+- **QR Code Generator:** Designed a web-based tool to generate QR codes for various purposes, allowing users to encode text, URLs, or contact information into QR format.
+- **Screen Recorder:** Developed a desktop application for capturing screen activity and saving it as a video file, offering users a convenient way to record tutorials, presentations, and gameplay.
+- **Virtual Assistant:** Implemented a voice-controlled virtual assistant similar to Alexa, capable of performing tasks such as setting reminders, answering questions, and controlling smart home devices.
 
 ## Education
 

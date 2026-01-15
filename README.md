@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **khezajoel@gmail.com**
 
-- 📄 Know about my experiences [https://resumelink.co/jmugambwa](https://resumelink.co/jmugambwa)
+- 📄 Know about my experiences [https://resumelink.co/jmugambwa](https://resumelink.co/jmugambwa.)
 
 - ⚡ Fun fact **Iam a big fun of MMA and Formula 1 sport**
 
